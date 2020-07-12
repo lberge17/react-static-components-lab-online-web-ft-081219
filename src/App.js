@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import CatComponent from 'CatComponent.js';
+import CatComponent from './CatComponent';
 import GraceHopperQuoteComponent from 'GraceHopperQuoteComponent';
 
 class App extends Component {
